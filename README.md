@@ -168,17 +168,3 @@ If you have suggestions for improving `akamai-sensordata-decrypt`, please feel f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-## Contact
-
-For any inquiries or further information, please reach out:
-
-- Project Maintainer: [glizzykingdreko](mailto:glizzykingdreko@protonmail.com)
-- Twitter: [@glizzykingdreko](https://twitter.com/glizzykingdreko)
-- GitHub Project Link: [here](https://github.com/glizzykingdreko/akamai-sensordata-decryptor)
-- Antibot bypass solutions needed? [TakionAPI](https://takionapi.tech/discord)
-- You like my projects? [Buy me a coffee](https://www.buymeacoffee.com/glizzykingdreko)
-
-Feel free to contact for collaborations, questions, or feedback regarding the project.
-
-Need help solving Akamai? [Contact me](mailto:glizzykingdreko@protonmail.com)
